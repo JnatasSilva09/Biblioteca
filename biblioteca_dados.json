@@ -1,0 +1,28 @@
+{
+    "livros": [
+        {
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899,
+            "isbn": "9788535902778",
+            "disponivel": true,
+            "usuario_emprestimo": null
+        },
+        {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "ano": 1949,
+            "isbn": "9788535909555",
+            "disponivel": true,
+            "usuario_emprestimo": null
+        },
+        {
+            "titulo": "O Cortiço",
+            "autor": "Aluísio Azevedo",
+            "ano": 1890,
+            "isbn": "978-8508041534",
+            "disponivel": true,
+            "usuario_emprestimo": null
+        }
+    ]
+}
